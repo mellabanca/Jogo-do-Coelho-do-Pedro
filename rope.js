@@ -29,7 +29,7 @@ class Rope
       this.body = null;
     }
     
-    show()
+    dCorda()
     {
       if(this.body!=null)
         {
